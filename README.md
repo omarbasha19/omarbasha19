@@ -23,23 +23,31 @@ I'm Omar, a passionate Data Science student exploring the exciting world of data
 
 ## Languages and Tools:
 <p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> 
+  </a>
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://your-image-url.com/python.png" alt="Python" title="Python" width="48" height="48"/> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> 
   </a>
-  <a href="https://www.odoo.com" target="_blank"> 
-    <img src="https://your-image-url.com/odoo.png" alt="Odoo" title="Odoo" width="48" height="48"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/> 
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://your-image-url.com/flask.png" alt="Flask" title="Flask" width="48" height="48"/> 
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL"/> 
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-    <img src="https://your-image-url.com/fastapi.png" alt="FastAPI" title="FastAPI" width="48" height="48"/> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> 
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://your-image-url.com/azure.png" alt="Azure" title="Azure" width="48" height="48"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://your-image-url.com/docker.png" alt="Docker" title="Docker" width="48" height="48"/> 
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/> 
   </a>
-  <!-- Repeat the same for the other icons as per your requirements -->
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/> 
+  </a>
 </p>
