@@ -129,7 +129,6 @@ Published IEEE conference papers in:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w1NjN3MHBkZjV5djJmdmJ4ZmxrNnV3eW1hODh6eDZ4d2Y0c2E3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
 
 <br><br>
 
