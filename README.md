@@ -12,7 +12,7 @@ Building intelligent systems, AI-driven applications, and scalable software solu
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdGl0amEwbjZ0YTUxNjNuamdxaGw1bDYwcnNtZWp6bTRma3hzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1sgetPM00wWqJpVUTl/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdGl0amEwbjZ0YTUxNjNuamdxaGw1bDYwcnNtZWp6bTRma3hzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1sgetPM00wWqJpVUTl/giphy.gif" width="260"/>
 
 </div>
 
