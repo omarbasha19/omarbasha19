@@ -2,8 +2,8 @@
 
 <div align="center">
 
-AI Engineer | Data Scientist | IEEE Conference Author  
-Artificial Intelligence • Deep Learning • Machine Learning • Computer Vision • Intelligent Optimization Systems
+AI Engineer | Data Scientist | Machine Learning & Computer Vision  
+Building AI-driven systems, intelligent automation solutions, and scalable software applications
 
 </div>
 
@@ -11,36 +11,68 @@ Artificial Intelligence • Deep Learning • Machine Learning • Computer Visi
 
 ## About Me
 
-Artificial Intelligence Engineer and Data Scientist with interests in Deep Learning, Computer Vision, Intelligent Systems, Multi-Agent Architectures, and Optimization Algorithms. Focused on building scalable AI-driven solutions that bridge research, engineering, and real-world applications.
+Artificial Intelligence Engineer and Data Scientist passionate about building intelligent systems that solve real-world problems through AI, automation, and scalable software engineering.
 
-Contributed to IEEE conference publications in:
-- Intelligent Scheduling Systems
-- Multi-Agent Optimization
-- Arabic Sign Language Recognition
-- Deep Learning and Computer Vision
-
-Experienced in developing AI-powered systems involving:
-- Machine Learning Pipelines
-- Predictive Analytics
-- NLP Applications
+My work combines practical software development with Artificial Intelligence across:
+- Machine Learning
+- Deep Learning
+- Computer Vision
 - Intelligent Automation
-- AI-based Classification Systems
+- Optimization Systems
+- Predictive Analytics
+
+I enjoy transforming ideas into working systems and developing solutions that bridge research, engineering, and business needs.
 
 ---
 
-## Research Publications
+## What I Work On
 
-### IEEE Conference Paper
-**An Intelligent Web-Based Multi-Agent Framework for Automated University Timetabling via Constraint-Aware Optimization over an Underlying UniTime Engine**
-
-DOI: https://doi.org/10.5281/zenodo.20159940
+🧠 AI & Machine Learning Systems  
+📊 Data Analysis & Predictive Analytics  
+👁️ Computer Vision Applications  
+⚙️ Intelligent Automation Solutions  
+🌐 Full-Stack & Backend Development  
+📈 Optimization & Decision Systems  
+🤖 Multi-Agent Intelligent Systems  
 
 ---
 
-### IEEE Conference Paper
-**Deep CNN and SimpleRNN Architectures for Bi-Handed Arabic Alphabet Hand-Gesture Recognition**
+## Technical Skills
 
-DOI: https://doi.org/10.5281/zenodo.20161073
+### Languages
+Python • C++ • Java • JavaScript • SQL • C
+
+### AI & Data Science
+Machine Learning • Deep Learning • NLP • Computer Vision • Data Analysis • Predictive Modeling
+
+### Frameworks & Libraries
+TensorFlow • OpenCV • Pandas • NumPy • Matplotlib • NodeJS • Bootstrap
+
+### Tools & Platforms
+Git • GitHub • Linux • REST APIs • MySQL • SQLite • Draw.io
+
+---
+
+## Featured Projects
+
+🔹 AI-powered Resume Matching System  
+🔹 Arabic Sign Language Recognition using Deep Learning  
+🔹 Intelligent University Timetabling System  
+🔹 Medical AI Classification Systems  
+🔹 Forecasting & Predictive Analytics Platforms  
+🔹 Smart Academic Portal  
+🔹 Intelligent Automation Workflows  
+
+---
+
+## Research & Publications
+
+Published IEEE conference papers in:
+- Artificial Intelligence
+- Intelligent Optimization
+- Computer Vision
+- Deep Learning
+- Multi-Agent Systems
 
 ---
 
@@ -52,64 +84,14 @@ DOI: https://doi.org/10.5281/zenodo.20161073
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8748-4622)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
-
 </div>
-
----
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- C++
-- Java
-- JavaScript
-- SQL
-- C
-
-### AI & Data Science
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Predictive Analytics
-- Data Analysis
-- Optimization Systems
-
-### Frameworks & Libraries
-- TensorFlow
-- OpenCV
-- Pandas
-- NumPy
-- Matplotlib
-- NodeJS
-- Bootstrap
-
-### Tools & Platforms
-- Git & GitHub
-- Linux
-- MySQL
-- SQLite
-- REST APIs
-- Draw.io
 
 ---
 
 ## Current Interests
 
-- Artificial Intelligence
-- Deep Learning
-- Computer Vision
-- Multi-Agent Systems
-- Intelligent Optimization
-- Human-Centered AI
-- Healthcare AI
-- Intelligent Automation
-- Smart Systems Engineering
+Artificial Intelligence • Deep Learning • Computer Vision • AI Automation • Intelligent Systems • Smart Applications • Data-Driven Solutions
 
 ---
 
-## Contact
-
-📫 Email: obasha998@gmail.com
+📫 Contact: obasha998@gmail.com
