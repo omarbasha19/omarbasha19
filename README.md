@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>AI Engineer | Data Scientist | Machine Learning & Computer Vision</h2>
+<h2>AI Engineer | Data Scientist | AI Researcher | Machine Learning & Computer Vision</h2>
 
 <p>
 Building intelligent systems, AI-driven applications, and scalable software solutions.
@@ -10,13 +10,17 @@ Building intelligent systems, AI-driven applications, and scalable software solu
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdGl0amEwbjZ0YTUxNjNuamdxaGw1bDYwcnNtZWp6bTRma3hzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
-
-</div>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdGl0amEwbjZ0YTUxNjNuamdxaGw1bDYwcnNtZWp6bTRma3hzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1sgetPM00wWqJpVUTl/giphy.gif" width="320"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -24,7 +28,7 @@ Building intelligent systems, AI-driven applications, and scalable software solu
 
 ## 🚀 About Me
 
-Artificial Intelligence Engineer and Data Scientist focused on developing AI-powered systems that solve real-world problems through:
+Artificial Intelligence Engineer, Data Scientist, and AI Researcher focused on developing intelligent systems and scalable AI-powered applications.
 
 - Machine Learning
 - Deep Learning
