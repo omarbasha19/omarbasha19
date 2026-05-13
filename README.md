@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w1NjN3MHBkZjV5djJmdmJ4ZmxrNnV3eW1hODh6eDZ4d2Y0c2E3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w1NjN3MHBkZjV5djJmdmJ4ZmxrNnV3eW1hODh6eDZ4d2Y0c2E3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
+
 
 # Omar Khaled Basha
 
