@@ -2,81 +2,53 @@
 
 <div align="center">
 
-AI Engineer | Data Scientist | Machine Learning & Computer Vision  
-Building AI-driven systems, intelligent automation solutions, and scalable software applications
+<h3>AI Engineer | Data Scientist | Machine Learning & Computer Vision</h3>
+
+Building intelligent systems, AI-driven applications, and scalable software solutions.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdGl0amEwbjZ0YTUxNjNuamdxaGw1bDYwcnNtZWp6bTRma3hzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1sgetPM00wWqJpVUTl/giphy.gif" width="320"/>
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Artificial Intelligence Engineer and Data Scientist passionate about building intelligent systems that solve real-world problems through AI, automation, and scalable software engineering.
-
-My work combines practical software development with Artificial Intelligence across:
+Artificial Intelligence Engineer and Data Scientist focused on building AI-powered systems that solve real-world problems through:
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Intelligent Automation
 - Optimization Systems
-- Predictive Analytics
 
-I enjoy transforming ideas into working systems and developing solutions that bridge research, engineering, and business needs.
-
----
-
-## What I Work On
-
-🧠 AI & Machine Learning Systems  
-📊 Data Analysis & Predictive Analytics  
-👁️ Computer Vision Applications  
-⚙️ Intelligent Automation Solutions  
-🌐 Full-Stack & Backend Development  
-📈 Optimization & Decision Systems  
-🤖 Multi-Agent Intelligent Systems  
+Experienced in developing scalable applications, intelligent workflows, predictive systems, and AI-driven software solutions.
 
 ---
 
-## Technical Skills
+## 🧠 Core Areas
 
-### Languages
-Python • C++ • Java • JavaScript • SQL • C
-
-### AI & Data Science
-Machine Learning • Deep Learning • NLP • Computer Vision • Data Analysis • Predictive Modeling
-
-### Frameworks & Libraries
-TensorFlow • OpenCV • Pandas • NumPy • Matplotlib • NodeJS • Bootstrap
-
-### Tools & Platforms
-Git • GitHub • Linux • REST APIs • MySQL • SQLite • Draw.io
-
----
-
-## Featured Projects
-
-🔹 AI-powered Resume Matching System  
-🔹 Arabic Sign Language Recognition using Deep Learning  
-🔹 Intelligent University Timetabling System  
-🔹 Medical AI Classification Systems  
-🔹 Forecasting & Predictive Analytics Platforms  
-🔹 Smart Academic Portal  
-🔹 Intelligent Automation Workflows  
-
----
-
-## Research & Publications
-
-Published IEEE conference papers in:
 - Artificial Intelligence
-- Intelligent Optimization
-- Computer Vision
+- Machine Learning
 - Deep Learning
-- Multi-Agent Systems
+- Computer Vision
+- NLP
+- Predictive Analytics
+- Intelligent Systems
+- Multi-Agent Architectures
 
 ---
 
-## Connect With Me
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,c,mysql,git,linux,tensorflow,nodejs,bootstrap" />
+
+</div>
+
+---
+
+## 🌍 Connect With Me
 
 <div align="center">
 
@@ -88,10 +60,19 @@ Published IEEE conference papers in:
 
 ---
 
-## Current Interests
+## 📚 Research
 
-Artificial Intelligence • Deep Learning • Computer Vision • AI Automation • Intelligent Systems • Smart Applications • Data-Driven Solutions
+Published IEEE conference papers in:
+- Artificial Intelligence
+- Computer Vision
+- Intelligent Optimization
+- Deep Learning
+- Multi-Agent Systems
 
 ---
 
+<div align="center">
+
 📫 Contact: obasha998@gmail.com
+
+</div>
