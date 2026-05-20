@@ -26,7 +26,7 @@ Building intelligent systems, AI-driven applications, and scalable software solu
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Artificial Intelligence Engineer, Data Scientist, and AI Researcher focused on developing intelligent systems and scalable AI-powered applications.
 
@@ -40,7 +40,7 @@ Experienced in building scalable applications, intelligent workflows, predictive
 
 ---
 
-## 🧠 Core Areas
+##  Core Areas
 
 <div align="center">
 
@@ -54,9 +54,9 @@ Experienced in building scalable applications, intelligent workflows, predictive
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Python • C++ • Java • JavaScript • SQL • C
 
 ---
 
-### 🧠 AI & Data Science
+###  AI & Data Science
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Data Analysis
 
 ---
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 
 <div align="center">
 
@@ -98,7 +98,7 @@ TensorFlow • OpenCV • Pandas • NumPy • Matplotlib • NodeJS • Bootstr
 
 ---
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Git • GitHub • Linux • REST APIs • MySQL • SQLite • Draw.io
 
 ---
 
-## 📚 Research
+##  Research
 
 Published IEEE conference papers in:
 - Artificial Intelligence
@@ -123,7 +123,7 @@ Published IEEE conference papers in:
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -140,6 +140,6 @@ Published IEEE conference papers in:
 
 <br><br>
 
-📫 Contact: <b>obasha998@gmail.com</b>
+ Contact: <b>obasha998@gmail.com</b>
 
 </div>
