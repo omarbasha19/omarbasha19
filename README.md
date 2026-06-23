@@ -123,19 +123,32 @@ Published research work in IEEE and MDPI venues, covering:
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-87378a2ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Khaled-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omar-khaled-87378a2ba/)
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8748-4622)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8748--4622-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0004-8748-4622)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=VA4OFa4AAAAJ)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Omar%20Khaled-00CCBB?style=for-the-badge\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Omar-Khaled-65)
+
+[![Email](https://img.shields.io/badge/Email-obasha998%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:obasha998@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
+
+<br>
+
+<b>Contact</b> <a href="mailto:obasha998@gmail.com"> <img src="https://img.shields.io/badge/obasha998%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a>
+
+</div>
+
 
 
 <br><br>
