@@ -114,7 +114,7 @@ Git • GitHub • Linux • REST APIs • MySQL • SQLite • Draw.io
 
 ##  Research
 
-Published IEEE conference papers in:
+Published research work in IEEE and MDPI venues, covering:
 - Artificial Intelligence
 - Computer Vision
 - Intelligent Optimization
