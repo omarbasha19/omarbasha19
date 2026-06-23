@@ -141,18 +141,6 @@ Published research work in IEEE and MDPI venues, covering:
 
 ---
 
-<div align="center">
 
-<br>
-
-<b>Contact</b> <a href="mailto:obasha998@gmail.com"> <img src="https://img.shields.io/badge/obasha998%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a>
-
-</div>
-
-
-
-<br><br>
-
- Contact: <b>obasha998@gmail.com</b>
 
 </div>
